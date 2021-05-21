@@ -1,0 +1,19 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0",
+    "jasmine-reporters": "^2.4.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
