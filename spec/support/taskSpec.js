@@ -24,7 +24,7 @@ describe("DropBox Testing", () => {
                 "Content-Type": "application/octet-stream",
                 "Dropbox-API-Arg": '{"path":"/pic.png","mode":"add","autorename":true,"mute":false,"strict_conflict":false}' },
             data: {
-                "binary": "/Users/yakalmar/Documents/pic.png"
+                "binary": "/Users/dianakaminska/Desktop/horoh.jpg"
             }
         })
             .then((response) => (upload_resp = response))
